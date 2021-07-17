@@ -6,3 +6,4 @@ with open("output.txt") as fw:
         for line in fr:
             print(line, end="",file=fw)
         
+        
